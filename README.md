@@ -197,6 +197,7 @@ Let's dive into the container real quick and see how it's built.
 
 ## Some stack specific quirks
 
+Restructuring buildpacks.
 
 ## Creating a custom build process
 
