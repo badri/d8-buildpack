@@ -211,7 +211,7 @@ Restructuring buildpacks.
 
 ## Why build container images in Kubernetes?
 
-
+## How to update builder images
 
 
 ## Conclusion
