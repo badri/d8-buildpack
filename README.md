@@ -217,3 +217,4 @@ By tagging them and running a cron task to fetch latest versions.
 
 ## Conclusion
 
+kp cli
