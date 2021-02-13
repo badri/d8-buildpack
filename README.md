@@ -213,6 +213,7 @@ Restructuring buildpacks.
 
 ## How to update builder images
 
+By tagging them and running a cron task to fetch latest versions.
 
 ## Conclusion
 
