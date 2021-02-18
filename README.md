@@ -222,3 +222,5 @@ kp cli
 Helm release
 
 Add a helm wait.
+
+Tekton trigger.
