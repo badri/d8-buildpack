@@ -220,3 +220,5 @@ By tagging them and running a cron task to fetch latest versions.
 kp cli
 
 Helm release
+
+Add a helm wait.
