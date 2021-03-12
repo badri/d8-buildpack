@@ -1,4 +1,6 @@
 
+# This article got updated
+
 # Cloud native continuous delivery using Paketo buildpacks
 
 Doing a "git push" and be done with deployment has been a developer utopia ever since Heroku popularized it.  The good news is, we can do all of this within our Kubernetes cluster. Buildpacks provide a rich ecosystem where you can build your application's container images without messing up with writing Dockerfiles and worrying about security.
