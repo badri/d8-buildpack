@@ -230,3 +230,5 @@ Tekton trigger.
 Get build logs.
 
 update ns creation.
+
+db sync
