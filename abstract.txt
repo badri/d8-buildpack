@@ -1,0 +1,7 @@
+Abstract:
+Building The Future Of Containers
+Buildpacks have been instrumental in providing the best developer experience for engineering teams. As part of Heroku (first and Cloud Foundry later) they have helped define the best path for developers looking to maximize efficiency. By offloading deployment to a series of automated steps, developers enjoyed the stellar git push heroku experience.
+This experience does not have to be contained to the Heroku stack! All of this can be done on any commodity infrastructure. The current incarnation of Buildpacks in the form of the open source Cloud Native Buildpacks (buildpacks.io) specification and their available implementations (ex: Paketo - paketo.io) allows platform operations to extend this experience to all languages/frameworks and infrastructure. The rich ecosystem surrounding Cloud Native Buildpacks, allows anyone to build container images without having to wrangle with Dockerfiles, involving in ops complexity, or worrying about security.
+This article demonstrates the fundamental principles of Cloud Native Buildpacks and how it applies to your stack. It makes use od a Drupal 8 application and demonstrates the agility and promise of Buildpacks.
+(You can follow all progress being made here: https://github.com/badri/d8-buildpack)
+
