@@ -1,5 +1,5 @@
 
-# This article got updated - 8
+# This article got updated - 9
 
 # Cloud native continuous delivery using Paketo buildpacks
 
